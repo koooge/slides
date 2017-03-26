@@ -12,8 +12,6 @@
 
 qwerty
 
-Note: qwerty
-
 ---
 
 # qwerty
@@ -58,3 +56,5 @@ Note: qwerty
 - :+1:
 - :-1:
 - :bow:
+
+Note: qwerty
