@@ -26,10 +26,10 @@ qwerty
 ---
 
 # qwerty
-*qwerty*
-**qwerty**
-+qwerty+
-~~qwerty~~
+- *qwerty*
+- **qwerty**
+- +qwerty+
+- ~~qwerty~~
 
 --
 
@@ -40,8 +40,8 @@ qwerty
 ---
 
 # qwerty
-:smile:
-:eyes:
-:+1:
-:-1:
-:bow:
+- :smile:
+- :eyes:
+- :+1:
+- :-1:
+- :bow:
